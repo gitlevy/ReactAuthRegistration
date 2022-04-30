@@ -1,6 +1,8 @@
-# Getting Started with Create React App
+# Authentification & Registration Forms in React JS + Firebase
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+Online Preview : https://ornate-toffee-b8aa81.netlify.app/
+
+##
 
 ## Available Scripts
 
